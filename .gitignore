@@ -22,7 +22,6 @@ venv/
 data/interim/
 data/processed/
 models/
-reports/figures/
 
 # Logs
 logs/
